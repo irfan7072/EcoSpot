@@ -1,0 +1,30 @@
+name: eco
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.7.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.0+1
+  geolocator: ^9.0.2
+  path_provider: ^2.1.1
+  lottie: ^2.0.0
+  flutter_lints: ^2.0.0
+  shared_preferences: ^2.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/background.jpg
+    - assets/login_animation.json
+    - assets/success.json
+    - assets/logo.png
+    - assets/trash_photo.jpg
+    - assets/trash_photo2.jpg
+    
