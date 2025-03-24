@@ -1,16 +1,14 @@
-# eco
+# EcoSpot 
 
-A new Flutter project.
+EcoSpot is a mobile application prototype that enables users to report trash in their surroundings by capturing a photo and sharing the location. The app aims to streamline waste reporting and encourage community-driven clean-up efforts.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Team Members-
 
-A few resources to get you started if this is your first Flutter project:
+SK. IRFAN
+K. VIJAY KUMAR
+T.S.K CHAITANYA
+T. CHAITANYA
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# EcoSpot APK 
+https://github.com/irfan7072/EcoSpot/releases/tag/1.0.0
