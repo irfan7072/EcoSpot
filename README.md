@@ -29,8 +29,8 @@ ________________________________________
 •	T. Chaitanya
 ________________________________________
 📦 Prototype & Demo
-•	APK Download: EcoSpot 1.0.0 Release
-•	Demo Video: Vimeo
+• [APK Download: EcoSpot 1.0.0 Release](https://github.com/irfan7072/EcoSpot/releases/tag/1.0.0)  
+• [Demo Video: Vimeo](https://vimeo.com/1071653742?share=copy)
 ________________________________________
 🔮 Future Scope
 •	Backend integration with municipal systems
